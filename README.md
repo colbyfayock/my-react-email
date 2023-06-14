@@ -1,7 +1,13 @@
-# Demo Email Signup Starter
+# Custom Email Templates with React
 
-## Getting Started
+Demo for tutorial [Create Custom Email Templates with React Email](https://www.youtube.com/colbyfayock)
 
-```bash
-npx create-next-app -e https://github.com/colbyfayock/demo-email-signup-starter
-```
+📺 YouTube: https://www.youtube.com/colbyfayock
+
+## More tutorials and walkthroughs
+
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
+
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
