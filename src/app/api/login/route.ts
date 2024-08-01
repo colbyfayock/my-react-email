@@ -2,7 +2,7 @@ import { Resend } from 'resend';
 
 import { SpaceJellyLoginCodeEmail } from '@/emails/login';
 
-const resend = new Resend('<Your Resend API Key (ex: re_1234)>');
+const resend = new Resend(String(process.env.RESEND_API_KEY));
 
 export async function POST(request: Request) {
   const { validationCode } = await request.json();
